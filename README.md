@@ -10,7 +10,7 @@ DESCRIPTION
     
     Author: HAP Proctor
     Email: 48.41.50@gmail.com
-    GitHub: https://github.com/48-41-50/python_multi_key_sort
+    GitHub: https://github.com/48-41-50/python-multi-key-sort
 
 FUNCTIONS
     asorted(iterable, *keys)
